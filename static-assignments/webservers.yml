@@ -1,8 +1,4 @@
 ---
 - hosts: webservers
   roles:
-<<<<<<< HEAD
-     - ../roles/webserver
-=======
      ../roles/webserver
->>>>>>> 8bd07aa0301b3407485ea0384131f91e811c043c
