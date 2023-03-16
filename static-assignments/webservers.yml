@@ -2,4 +2,4 @@
 
 - hosts: webservers
   roles:
-     - ../webserver
+    - webserver
