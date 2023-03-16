@@ -1,4 +1,4 @@
 - name: webservers
   hosts: all
   roles:
-    - ../webserver
+    - /home/ubuntu/ansible-config-mgt2/roles/webserver
