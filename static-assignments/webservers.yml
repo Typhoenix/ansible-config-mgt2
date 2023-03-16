@@ -1,5 +1,4 @@
----
-
-- hosts: webservers
+- name: webservers
+  hosts: all
   roles:
     - webserver
