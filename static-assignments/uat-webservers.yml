@@ -1,4 +1,4 @@
 ---
 - hosts: uat-webservers
   roles:
-     - webserver
+     - /mnt/c/Users/hp/code/ansible-config-mgt2/ansible-config-mgt/roles/webserver
